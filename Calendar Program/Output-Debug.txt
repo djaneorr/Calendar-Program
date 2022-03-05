@@ -1,0 +1,14 @@
+﻿'Calendar Program.exe' (Win32): Loaded 'C:\Users\janey\Desktop\BYUI\Applied Programming - CSE310\Sprint 4\Calendar Program\Debug\Calendar Program.exe'. Symbols loaded.
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x7254 has exited with code 0 (0x0).
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Calendar Program.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x49ec has exited with code 0 (0x0).
+The thread 0xe88 has exited with code 0 (0x0).
+The program '[23768] Calendar Program.exe' has exited with code 0 (0x0).
