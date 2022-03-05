@@ -6,6 +6,8 @@ This will be able to pull up the complete calendar for any month from 1753 or la
 
 This is described as a simple project for learning the basic synatax of C++ with plenty of functions, loops, and expressions.
 
+[Path to Code in Repository]  Calendar-Program/Calendar Program/Calendar Program/Calendar Program.cpp
+
 [Software Demo Video]  https://youtu.be/bE0b4XKMl5I
 
 # Development Environment
